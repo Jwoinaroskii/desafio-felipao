@@ -16,4 +16,4 @@ if (experiencia < 1000) {
     classificação = "Herói";
 }
 
-console.log(NomedoHeroi + " tem " + experiencia + " de experiência e é classificado como: " + classificação);
+console.log(NomedoHeroi + "O Poderoso tem " + experiencia + " em sua jornada e é classificado como: " + classificação);
