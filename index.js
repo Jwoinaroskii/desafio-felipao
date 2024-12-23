@@ -1,5 +1,5 @@
 let NomedoHeroi = "Super Gato";
-let experiencia = 1005;
+let experiencia = 3002;
 let classificação;
 
 if (experiencia < 1000) {
